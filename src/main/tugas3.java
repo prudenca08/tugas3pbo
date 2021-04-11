@@ -17,10 +17,6 @@ import tugas3.bidang.PersegiPanjang;
 import tugas3.ruang.Balok;
 import tugas3.ruang.Kerucut;
 
-/**
- *
- * @author Daffa
- */
 public class tugas3 {
      public static void main(String[] args) {
          int pilih=0,panjang,lebar,tinggi,jariJari;
