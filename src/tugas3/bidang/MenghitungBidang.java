@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tugas3.bidang;
 
 /**
  *
- * @author Daffa
+ * Nama    : Prudenca Ahmad Daffa K.
+   NIM : 123190005
  */
+package tugas3.bidang;
 public interface MenghitungBidang {
     double luas();
     double keliling();
